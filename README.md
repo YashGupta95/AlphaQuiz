@@ -1,5 +1,5 @@
 # AlphaQuiz
-A simple Quiz application built using C# and ReactJS
+A simple Quiz application built using C# and ReactJS (using Material UI library)
 
 Prerequisites to setup and run the application:
 - Visual Studio 2022 (or above)
