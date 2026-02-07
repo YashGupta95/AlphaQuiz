@@ -60,4 +60,4 @@ After setting up both the backend and frontend, run the server and client applic
 - Responsive design
 
 ## References
-Original tutorial by CodAffection
+The application has been built following the guidance & references from this tutorial by CodAffection: https://www.youtube.com/watch?v=rgrvOtCPS6Y&ab_channel=CodAffection
